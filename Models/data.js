@@ -38,7 +38,7 @@ module.exports = [
         item_name: "MacBook",
         amount: 1500,
         date: "01/12/2023",
-        from: "Apple",
+        from: "Apple Inc.",
         category: "Education"
     }
 ]
