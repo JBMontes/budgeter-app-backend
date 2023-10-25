@@ -32,5 +32,13 @@ module.exports = [
         date: "07/12/2023",
         from: "Planet Fitness",
         category: "Health & Fitness"
+    },
+    {
+        id: 5555,
+        item_name: "MacBook",
+        amount: 1500,
+        date: "01/12/2023",
+        from: "Apple",
+        category: "Education"
     }
 ]
