@@ -16,6 +16,7 @@ transactions.get('/:id', (req, res)=>{
     const purchase = transactionArray.find((transaction)=> transaction.id === parseInt(id));
     if(purchase){
         res.json(purchase)
+        
     }
 });
 
